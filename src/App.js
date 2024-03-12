@@ -45,8 +45,8 @@ function App() {
         <Route path="/signup" component={SignUpPage} exact />
         <GuardedRoute path='/resume' component={resume} auth={isAutheticated} />
       </Switch>
-      <a id="mlh-trust-badge" style={{ display: "block", maxWidth: "100px", minWidth: "60px", position: "fixed", right: "20px", top: "0", width: "10%", zIndex: "10000" }} href="https://mlh.io/seasons/2023/events" target="_blank">
-        <img src="https://s3.amazonaws.com/logged-assets/trust-badge/2023/mlh-trust-badge-2023-white.svg" alt="Major League Hacking 2022 Hackathon Season" style={{ width: "100%" }} />
+      <a id="mlh-trust-badge" style={{ display: "block", maxWidth: "100px", minWidth: "60px", position: "fixed", right: "20px", top: "0", width: "10%", zIndex: "10000" }} href="https://mlh.io/seasons/2024/events" target="_blank">
+        <img src="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.svg?_gl=1*ok7vb9*_ga*NjE1OTgxMTAuMTcwOTY3MjMyNw..*_ga_E5KT6TC4TK*MTcxMDIxMjY1My41LjEuMTcxMDIxMjc2NS4wLjAuMA.." alt="Major League Hacking 2024 Hackathon Season" style={{ width: "100%" }} />
       </a>
     </Router>
   );
