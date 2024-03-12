@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3e0d4b0.css",
+    "main.js": "/static/js/main.524f6309.js",
+    "static/js/453.a3372272.chunk.js": "/static/js/453.a3372272.chunk.js",
+    "static/media/computer.png": "/static/media/computer.25ddc0ae4448dc4f6222.png",
+    "static/media/test.png": "/static/media/test.838f57554fe2ea4fc0cd.png",
+    "static/media/SponsorshipDocument2023.pdf": "/static/media/SponsorshipDocument2023.0473d15665f59d7479b5.pdf",
+    "static/media/parallax_mid-01.png": "/static/media/parallax_mid-01.83f0cc991f8422ab842c.png",
+    "static/media/calvin.jpg": "/static/media/calvin.4af8969a1db4b5f6eea2.jpg",
+    "static/media/atomic.png": "/static/media/atomic.d877017f4dea3131f91e.png",
+    "static/media/parallax_back-01-01.png": "/static/media/parallax_back-01-01.f05d219fe1e99501c701.png",
+    "static/media/tekton.png": "/static/media/tekton.63adf7a1422e59461166.png",
+    "static/media/parallax_front-01.png": "/static/media/parallax_front-01.de60fa68bd510a9e5cf6.png",
+    "static/media/spindance.jpg": "/static/media/spindance.6cc4d2f7f5cda52dc5aa.jpg",
+    "static/media/twisthink.png": "/static/media/twisthink.5478e21f389fd5b1b1c1.png",
+    "static/media/parallax_background-01.png": "/static/media/parallax_background-01.34df6f71375c3d4fee57.png",
+    "index.html": "/index.html",
+    "main.c3e0d4b0.css.map": "/static/css/main.c3e0d4b0.css.map",
+    "main.524f6309.js.map": "/static/js/main.524f6309.js.map",
+    "453.a3372272.chunk.js.map": "/static/js/453.a3372272.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e0d4b0.css",
+    "static/js/main.524f6309.js"
+  ]
+}
